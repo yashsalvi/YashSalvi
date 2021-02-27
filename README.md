@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Yash Salvi</h1>
+<h1 align="center"> I'm Yash Salvi</h1>
 <h3 align="center">Can work well under pressure and make the best of any situation. Passionate individual with great interpersonal and communication skills.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashsalvi&label=Profile%20views&color=0e75b6&style=flat" alt="yashsalvi" /> </p>
 
-- 🔭 I’m currently working on **Angular Course**
+- 🔭 I’m currently working on **Angular Course Project**
 
 - 🌱 I’m currently learning **Angular**
 
