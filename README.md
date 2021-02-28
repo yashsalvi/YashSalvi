@@ -13,7 +13,7 @@
 
 - 📄 Know about my experiences [Resume: https://drive.google.com/file/d/19dqyS6i07KAXuzsxwoioCTPjO-ieHPYj/view?usp=sharing](Resume: https://drive.google.com/file/d/19dqyS6i07KAXuzsxwoioCTPjO-ieHPYj/view?usp=sharing)
 
-- In order to keep updated **I have bought courses from Udemy(Maximilian schwarzmüller).**
+- In order to keep myself updated **I have bought courses from Udemy(Maximilian schwarzmüller).**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
