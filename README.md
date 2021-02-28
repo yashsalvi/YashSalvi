@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Angular Course Project : RecipeBook**
 
-- 🌱 I’m currently learning **Angular - The Complete Guide (2021 Edition) by Maximilian schwarzmüller **
+- 🌱 I’m currently learning **Angular : The Complete Guide (2021 Edition) by Maximilian schwarzmüller**
 
 - 💬 Ask me about **C,C++,Node.Js,Mysql,Mongo db,Html,CSS,Javascript .**
 
