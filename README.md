@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashsalvi&label=Profile%20views&color=0e75b6&style=flat" alt="yashsalvi" /> </p>
 
-- 🔭 I’m currently working on **Angular Course Project**
+- 🔭 I’m currently working on **Angular Course Project : RecipeBook**
 
 - 🌱 I’m currently learning **Angular**
 
-- 💬 Ask me about **Node.Js,Mysql,Mongo db,Html,CSS,Javascript .**
+- 💬 Ask me about **C,C++,Node.Js,Mysql,Mongo db,Html,CSS,Javascript .**
 
 - 📫 How to reach me **yashsalvi101257@gmail.com**
 
