@@ -13,6 +13,8 @@
 
 - 📄 Know about my experiences [Resume: https://drive.google.com/file/d/19dqyS6i07KAXuzsxwoioCTPjO-ieHPYj/view?usp=sharing](Resume: https://drive.google.com/file/d/19dqyS6i07KAXuzsxwoioCTPjO-ieHPYj/view?usp=sharing)
 
+- In order to keep updated **I have bought courses from Udemy(Maximilian schwarzmüller).**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/yash-salvi-9b544b18b" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/yash-salvi-9b544b18b" height="30" width="40" /></a>
