@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashsalvi&label=Profile%20views&color=0e75b6&style=flat" alt="yashsalvi" /> </p>
 
-- 🔭 I’m currently working on **Angular Course Project : RecipeBook**
+- 🔭 I’m currently working on **Angular Course Project : FrostElite-Cookbook**
 
 - 🌱 I’m currently learning **Angular : The Complete Guide (2021 Edition) by Maximilian schwarzmüller**
 
