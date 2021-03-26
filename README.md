@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **yashsalvi101257@gmail.com**
 
-- 📄 Know about my experiences [Resume: https://drive.google.com/file/d/19dqyS6i07KAXuzsxwoioCTPjO-ieHPYj/view?usp=sharing](Resume: https://drive.google.com/file/d/19dqyS6i07KAXuzsxwoioCTPjO-ieHPYj/view?usp=sharing)
+- 📄 Know about my experiences [Resume: https://drive.google.com/file/d/1XWk9gJ-_4quHssuQ_AsBQ0yNNxo_AYck/view?usp=sharing]
 
 - In order to keep myself updated **I have bought courses from Udemy(Maximilian schwarzmüller).**
 
